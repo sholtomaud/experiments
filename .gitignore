@@ -1,0 +1,21 @@
+te mode 100644 DescartesForceFlux/lab_report_1.aux                                   │drwxr-xr-x   7 sholtomaud  staff   224B 23 May 19:39 webtorrent-server/
+ create mode 100644 DescartesForceFlux/lab_report_1.bbl                                   │drwxr-xr-x  13 sholtomaud  staff   416B 23 May 19:43 webtorrent-test/
+ create mode 100644 DescartesForceFlux/lab_report_1.blg                                   │drwxr-xr-x   9 sholtomaud  staff   288B  4 Oct  2017 weto-client/
+ create mode 100644 DescartesForceFlux/lab_report_1.log                                   │drwxr-xr-x  12 sholtomaud  staff   384B 27 Nov  2016 weto-client-old/
+ create mode 100644 DescartesForceFlux/lab_report_1.pdf                                   │drwxr-xr-x  10 sholtomaud  staff   320B 17 Apr 10:23 whisper-chat-example/
+ create mode 100644 DescartesForceFlux/lab_report_1.synctex.gz                            │drwxr-xr-x   3 sholtomaud  staff    96B  5 Apr 10:25 wikipedia/
+ create mode 100644 DescartesForceFlux/lab_report_1.tex                                   │drwxr-xr-x   7 sholtomaud  staff   224B  9 Mar 09:53 with-graphql-request/
+ create mode 100644 DescartesForceFlux/machVenturi.png                                    │drwxr-xr-x  10 sholtomaud  staff   320B 27 Nov  2016 woofmark-component/
+ create mode 100644 DescartesForceFlux/placeholder.jpg                                    │drwxr-xr-x   9 sholtomaud  staff   288B 27 Feb 20:25 workbox-indexeddb/
+ create mode 100644 DescartesForceFlux/references.bib 
+
+*.bib
+*.gz
+*.bbl
+*.blg
+*.toc
+*.log
+*.blg
+*.aux
+*.out
+
